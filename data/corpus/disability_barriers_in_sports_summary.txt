@@ -1,0 +1,35 @@
+Title: Identifying and Overcoming Disability Barriers in Sports
+Source: ReciteMe
+URL: https://reciteme.com/news/disability-barriers-in-sports/
+
+INTRODUCTION
+Disability barriers in sports hinder equal participation for athletes, fans, and supporters with disabilities. These obstacles extend beyond training and competitions, affecting access and enjoyment across the sporting ecosystem.
+
+TYPES OF BARRIERS
+1. Physical Accessibility Barriers
+- Inaccessible facilities: Locker rooms, spectator zones lacking ramps and elevators.
+- Equipment limitations: Traditional gear unsuitable for wheelchair users or individuals with sensory processing disorders.
+- Communication issues: Reliance on whistles without sign language interpretation for hearing-impaired individuals.
+
+2. Logistical Accessibility Barriers
+- Website accessibility: Non-compliant sites prevent ticket purchases and membership renewals.
+- Information gaps: Poorly structured event details challenge individuals with cognitive disabilities.
+- Transportation hurdles: Inaccessible transit and venue navigation difficulties.
+
+3. Psychological Accessibility Barriers
+- Stigma: Negative stereotypes about athletes with disabilities.
+- Under-representation: Limited visibility in mainstream sports media and career pathways.
+- Social isolation: Exclusion from sports-related gatherings and communities.
+
+SOLUTIONS
+- Accessible facilities: Install ramps, elevators, and inclusive seating.
+- Accessible websites: Comply with WCAG 2.1 standards for digital inclusion.
+- Adaptive equipment: Collaborate with manufacturers for inclusive gear.
+- Inclusive communication: Provide captioning and sign language interpretation.
+- Community engagement: Partner with advocacy groups and promote awareness through education.
+
+SIGNIFICANCE
+Addressing these barriers fosters diversity, inclusion, and equal opportunities in sports for individuals with disabilities.
+
+CITATIONS
+Source: ReciteMe article on disability barriers in sports.

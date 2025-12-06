@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 781d698637f2856f9b661c97c6d6b4768a3b1abe joelmaison <jmaison@andrew.cmu.edu> 1763937815 +0200	clone: from https://github.com/joelmaison/11697-hw6-jmaison.git
+781d698637f2856f9b661c97c6d6b4768a3b1abe f7dfe6bf1944f7d83ce8e16b6be9b1180a72f759 joelmaison <jmaison@andrew.cmu.edu> 1763939244 +0200	commit: Complete Part 1: Topic selection - Basketball in Africa
+f7dfe6bf1944f7d83ce8e16b6be9b1180a72f759 3005fa53ad715ead15e225cf71b54e6d8ecd185c joelmaison <jmaison@andrew.cmu.edu> 1764543274 +0200	commit: Add Part 2: QA pairs, evidence, and corpus documents
+3005fa53ad715ead15e225cf71b54e6d8ecd185c 982b2e3724cd3760bd160e672fe487d9147dc88d joelmaison <jmaison@andrew.cmu.edu> 1764543483 +0200	commit: Remove PDF file
+982b2e3724cd3760bd160e672fe487d9147dc88d 6338b96d1b415e09f41f302b1d1f3c38ae2bf94e joelmaison <jmaison@andrew.cmu.edu> 1764896866 +0200	commit: Complete Part 3: RAG pipeline with 5 systems
+6338b96d1b415e09f41f302b1d1f3c38ae2bf94e 654ef75cff1b0ff3d9da9c5177d911243fa2c39f joelmaison <jmaison@andrew.cmu.edu> 1764899147 +0200	commit: Complete Part 4: Evaluation with LLM-as-judge, Exact Match, and F1 metrics
+654ef75cff1b0ff3d9da9c5177d911243fa2c39f a2fd8f3998bee4bfa5b7465c22822b8789e8d7c3 joelmaison <jmaison@andrew.cmu.edu> 1764969294 +0200	commit: Advanced Analysis done and documented

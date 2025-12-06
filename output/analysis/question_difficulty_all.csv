@@ -1,0 +1,160 @@
+question_idx,question,question_type,avg_llm_score,avg_exact_match,avg_f1_score,llm_std,systems_failed,systems_perfect,is_universally_hard,is_universally_easy
+1,Who is the current commissioner of the Basketball Africa League?,factoid,3.2,0.0,0.15238095238095237,1.6431676725154984,3,2,False,False
+2,In what year was FIBA Africa established?,factoid,3.4,0.0,0.17142857142857143,2.1908902300206647,2,3,False,False
+3,How did colonial powers use sport in colonized regions according to the article?,factoid,4.0,0.0,0.2040876997398736,1.224744871391589,1,2,False,False
+4,What role does the Basketball Africa League (BAL) play in promoting women's basketball in Africa?,factoid,4.0,0.0,0.10888570557022041,1.224744871391589,1,2,False,False
+5,How many countries will now represent African basketball in global competitions according to the article?,factoid,4.4,0.4,0.47272727272727266,1.3416407864998738,1,4,False,True
+6,How often is AfroBasket held?,factoid,4.4,0.4,0.7555555555555555,1.3416407864998738,1,4,False,True
+7,What role do international partnerships play in the rise of African basketball?,factoid,3.4,0.0,0.04693377190978722,2.1908902300206647,2,3,False,False
+8,"What publisher is associated with ""Sport and Apartheid South Africa""?",factoid,1.0,0.0,0.0,0.0,5,0,True,False
+9,When did basketball's presence in Africa begin?,factoid,4.6,0.4,0.5466666666666666,0.8944271909999157,0,4,False,True
+10,In what year was the first Basketball Without Borders (BWB) program launched globally?,factoid,5.0,0.4,0.49230769230769234,0.0,0,5,False,True
+11,In what year was Hakeem Olajuwon drafted first overall in the NBA Draft?,factoid,3.4,0.0,0.09999999999999995,2.1908902300206647,2,3,False,False
+12,At what age was Joel Embiid introduced to basketball?,factoid,3.4,0.0,0.11333333333333329,2.1908902300206647,2,3,False,False
+13,How many times did Dikembe Mutombo win the NBA Defensive Player of the Year award?,factoid,3.4,0.0,0.0,2.1908902300206647,2,3,False,False
+14,In what year did Pascal Siakam win the NBA Championship?,factoid,3.4,0.0,0.1222222222222222,2.1908902300206647,2,3,False,False
+15,What role has Luol Deng played in South Sudan basketball development?,factoid,3.8,0.0,0.14552249763077457,1.7888543819998317,1,3,False,False
+16,Which country is Gab Gre Lasme originally from?,factoid,3.4,0.0,0.15,2.1908902300206647,2,3,False,False
+17,How many times has Giannis Antetokounmpo won the NBA MVP award?,factoid,3.4,0.0,0.0,2.1908902300206647,2,3,False,False
+18,In what year did Serge Ibaka win the NBA Championship?,factoid,3.4,0.0,0.1222222222222222,2.1908902300206647,2,3,False,False
+19,Which WNBA player from Nigeria has won the WNBA MVP award?,factoid,3.4,0.2,0.3333333333333333,2.1908902300206647,2,3,False,False
+20,What age groups do FIBA Africa's youth championships target?,factoid,3.2,0.0,0.15555555555555553,2.04939015319192,2,2,False,False
+21,What is the primary purpose of the proposed African development league?,factoid,3.8,0.0,0.2446524632073249,1.0954451150103321,1,1,False,False
+22,Which organization oversees the Nigerian Premier League?,factoid,4.2,0.0,0.6095238095238096,1.7888543819998322,1,4,False,True
+23,Which organization organizes the Women's Basketball League Africa?,factoid,4.0,0.2,0.3885714285714285,1.7320508075688772,1,3,False,False
+24,In what year was South Africa's Basketball National League established?,factoid,4.2,0.4,0.4733333333333333,1.7888543819998322,1,4,False,True
+25,Which FIBA Africa zone does the Youzou Elite Basketball League operate in?,factoid,3.0,0.0,0.15384615384615383,1.8708286933869707,3,2,False,False
+26,Where were the 2025 BAL Playoffs and Finals held?,factoid,3.2,0.0,0.2857142857142857,1.6431676725154984,3,2,False,False
+27,How many youth competition categories does FIBA Africa organize?,factoid,2.8,0.0,0.0,2.0493901531919194,3,2,False,False
+28,Why was the 5th Afro Varsity 3x3 Basketball Challenge postponed?,factoid,3.2,0.0,0.23678107606679033,1.6431676725154984,3,2,False,False
+29,Which NCAA Division I school did Jana El Alfy enroll at?,factoid,2.6,0.0,0.11428571428571428,2.1908902300206647,3,2,False,False
+30,How many sub-zones does FIBA Africa organize its national federations into?,factoid,2.6,0.0,0.0,2.1908902300206647,3,2,False,False
+31,In what year did 3x3 basketball become an official discipline of the African Games?,factoid,3.4,0.0,0.09230769230769229,2.1908902300206647,2,3,False,False
+32,In what year did Giants of Africa begin hosting basketball camps?,factoid,4.2,0.2,0.31999999999999995,1.7888543819998317,1,4,False,True
+33,How many countries and territories can access BAL broadcasts?,factoid,2.8,0.0,0.07999999999999996,2.0493901531919194,3,2,False,False
+34,Which organization established Club Rafiki in Kigali in 2022?,factoid,2.0,0.0,0.1173076923076923,1.7320508075688772,4,1,True,False
+35,When is the Giants of Africa Festival scheduled to take place in Kigali in 2025?,factoid,3.4,0.0,0.3021739130434783,2.1908902300206647,2,3,False,False
+36,How many national titles has Petro de Luanda won?,factoid,2.8,0.0,0.08888888888888888,2.0493901531919194,3,2,False,False
+37,What percentage of LGBT individuals witnessed homophobia in sport according to studies mentioned?,factoid,4.0,0.2,0.2676691729323308,1.7320508075688772,1,3,False,False
+38,What standard should websites comply with for digital inclusion of people with disabilities?,factoid,4.8,0.4,0.5145098039215685,0.44721359549995787,0,4,False,True
+39,How many basketball courts does NBA Africa aim to construct across Africa within the next decade?,factoid,4.2,0.4,0.45714285714285713,1.7888543819998322,1,4,False,True
+40,Which former US President joined BAL as a strategic partner and investor?,factoid,3.4,0.0,0.1421052631578947,2.1908902300206647,2,3,False,False
+41,In which years will BAL continue to stage Playoffs and Finals in Kigali according to the multi-year extension?,factoid,2.8,0.0,0.2023913043478261,2.0493901531919194,3,2,False,False
+42,What is the seating capacity of Kigali Arena?,factoid,3.4,0.0,0.11777777777777773,2.1908902300206647,2,3,False,False
+43,In what year was basketball introduced to Rwanda by missionaries?,factoid,4.8,0.4,0.47272727272727266,0.44721359549995787,0,4,False,True
+44,What percentage of young players cite fun as their main reason for playing basketball?,factoid,3.8,0.2,0.2571428571428571,1.7888543819998317,1,3,False,False
+45,"On what date was the first new basketball court unveiled at Highland School in Nyamata, Rwanda?",factoid,4.2,0.4,0.52,1.7888543819998322,1,4,False,True
+46,What is the duration of ESPN Africa's broadcast agreement with FIBA?,factoid,3.2,0.0,0.0,2.04939015319192,2,2,False,False
+47,By what percentage did NBA Africa's social media followers grow year-over-year?,factoid,4.2,0.2,0.3035294117647058,1.7888543819998317,1,4,False,True
+48,Which organization partnered with BAL to advance education and inclusion in Africa?,factoid,3.6,0.0,0.34806763285024156,1.949358868961793,2,3,False,False
+49,What was BAL's estimated valuation in 2021?,factoid,3.4,0.0,0.20210526315789473,2.1908902300206647,2,3,False,False
+50,On what date were BAL's gender equality initiatives announced?,factoid,4.2,0.2,0.420979020979021,1.7888543819998317,1,4,False,True
+51,Which Egyptian player participated in the NBA Summer League from BAL?,factoid,2.6,0.0,0.10333333333333335,2.1908902300206647,3,2,False,False
+52,On what dates was BAL's first scouting combine held?,factoid,3.0,0.0,0.12307692307692304,1.8708286933869707,3,2,False,False
+53,In what year was WINGSPAN Scouting founded?,factoid,2.6,0.0,0.11428571428571428,2.1908902300206647,3,2,False,False
+54,List three teams that have won the BAL championship since its inaugural season in 2021.,list,2.4,0.0,0.06795366795366792,1.3416407864998738,2,0,False,False
+55,Name three African national teams that have been dominant in AfroBasket history.,list,3.6,0.0,0.00727272727272726,1.51657508881031,1,1,False,False
+56,Name two sports introduced by European colonial authorities.,list,4.6,0.0,0.3866666666666666,0.5477225575051662,0,3,False,False
+57,List two barriers that historically restricted women's participation in basketball in Africa.,list,3.4,0.0,0.11868131868131868,2.1908902300206647,2,3,False,False
+58,Name two emerging basketball nations mentioned as pushing for greater representation.,list,5.0,0.0,0.3822222222222222,0.0,0,5,False,True
+59,List two global competitions that AfroBasket serves as a qualifier for.,list,5.0,0.0,0.46820728291316527,0.0,0,5,False,True
+60,Name two prominent African NBA players mentioned who inspire future generations.,list,4.0,0.0,0.27301587301587305,1.4142135623730951,1,3,False,False
+61,"List three key themes mentioned in the key points section of the book ""Sport and Apartheid South Africa"" ..",list,2.6,0.0,0.26264705882352934,1.140175425099138,2,0,False,False
+62,List three social impacts of basketball in Africa.,list,3.8,0.0,0.09208391608391606,1.0954451150103321,1,1,False,False
+63,List two objectives of the Basketball Without Borders camp in East Africa.,list,3.0,0.0,0.052363828662083514,1.8708286933869707,2,1,False,False
+64,List three individual NBA awards or honors Hakeem Olajuwon won during his career.,list,3.0,0.0,0.13898193760262723,1.8708286933869707,2,1,False,False
+65,List two achievements Joel Embiid has earned in the NBA.,list,2.8,0.0,0.25783993783993775,1.6431676725154984,2,0,False,False
+66,List three areas of focus for Dikembe Mutombo's humanitarian work.,list,2.8,0.0,0.005797101449275361,1.6431676725154984,2,0,False,False
+67,List two NBA honors Pascal Siakam has received.,list,3.2,0.0,0.3177489177489177,2.04939015319192,2,2,False,False
+68,List two ways basketball impacts South Sudan society.,list,3.8,0.0,0.06342028985507245,1.7888543819998317,1,3,False,False
+69,List two impacts of Gab Gre Lasme's success on African basketball.,list,3.4,0.0,0.12528138528138522,1.3416407864998738,2,1,False,False
+70,List three major NBA achievements Giannis Antetokounmpo has earned.,list,3.4,0.0,0.19744245524296677,2.1908902300206647,2,3,False,False
+71,List two areas where Serge Ibaka has focused his philanthropic efforts.,list,3.4,0.0,0.1956882255389718,2.1908902300206647,2,3,False,False
+72,List three African countries mentioned as having female basketball players making global waves.,list,3.4,0.0,0.12222222222222223,2.1908902300206647,2,3,False,False
+73,List two objectives of FIBA Africa's youth development programs.,list,2.6,0.0,0.10714285714285714,1.51657508881031,2,0,False,False
+74,List two objectives of the proposed African development league.,list,3.6,0.0,0.26743589743589735,1.51657508881031,2,2,False,False
+75,List three teams that compete in the Nigerian Premier League.,list,4.6,0.0,0.32230576441102754,0.8944271909999157,0,4,False,True
+76,List three social impacts of the Women's Basketball League Africa.,list,4.0,0.0,0.13414695845402957,1.7320508075688772,1,3,False,False
+77,List three teams that compete in South Africa's Basketball National League.,list,3.8,0.0,0.34666666666666657,1.6431676725154984,1,2,False,False
+78,List two types of tournaments featured in the Youzou Elite Basketball League.,list,2.8,0.0,0.11111111111111112,2.0493901531919194,3,2,False,False
+79,List three existing partners of the Basketball Africa League mentioned.,list,2.0,0.0,0.06926406926406924,1.7320508075688772,4,1,True,False
+80,List two age groups featured in FIBA Africa youth competitions.,list,3.4,0.0,0.0768627450980392,2.1908902300206647,2,3,False,False
+81,List three countries that confirmed participation in the postponed tournament.,list,3.4,0.0,0.22266666666666665,2.1908902300206647,2,3,False,False
+82,List three African players mentioned who joined US college basketball programs.,list,2.8,0.0,0.06956521739130432,2.0493901531919194,3,2,False,False
+83,List four countries included in FIBA Africa Zone 4.,list,2.6,0.0,0.08,2.1908902300206647,3,2,False,False
+84,List three countries that won medals in the women's 3x3 basketball tournament at the 2023 African Games.,list,2.8,0.0,0.07415547415547412,2.0493901531919194,3,2,False,False
+85,List two types of activities offered at Giants of Africa camps.,list,4.2,0.2,0.34071146245059286,1.7888543819998317,1,4,False,True
+86,List two major initiatives mentioned in the BAL global investment article.,list,3.4,0.0,0.03250393250393248,1.5165750888103102,2,2,False,False
+87,List two challenges mentioned regarding basketball infrastructure in Africa.,list,3.2,0.0,0.15345984524077827,1.4832396974191326,1,1,False,False
+88,List three activities featured at the Giants of Africa 2025 Festival.,list,3.2,0.0,0.052439605821233526,2.04939015319192,2,2,False,False
+89,List three top African basketball clubs mentioned in the article.,list,3.4,0.0,0.16833333333333333,2.1908902300206647,2,3,False,False
+90,List three types of limitations sport faces in addressing SDGs.,list,4.8,0.4,0.47261044176706823,0.44721359549995787,0,4,False,True
+91,List three types of accessibility barriers in sports for people with disabilities.,list,4.4,0.4,0.4679536679536679,0.5477225575051662,0,2,False,False
+92,List two key initiatives of the NBA Africa and Opportunity International partnership.,list,3.8,0.0,0.1343637008153137,1.6431676725154984,1,2,False,False
+93,List three key investment areas for private investment in BAL.,list,3.2,0.0,0.07936507936507933,2.04939015319192,2,2,False,False
+94,List three BAL Foundational Partners mentioned in the agreement.,list,2.8,0.0,0.06712643678160918,2.0493901531919194,3,2,False,False
+95,List three modern basketball arenas in Africa mentioned in the article.,list,3.4,0.0,0.23157894736842105,2.1908902300206647,2,3,False,False
+96,List three challenges facing basketball development in Africa.,list,3.6,0.0,0.0565822909484881,1.51657508881031,1,1,False,False
+97,List three social skills developed through youth basketball.,list,5.0,0.0,0.23666666666666666,0.0,0,5,False,True
+98,List two activities conducted during the court unveiling events.,list,3.2,0.0,0.12307692307692308,1.6431676725154984,3,2,False,False
+99,List three types of FIBA tournaments covered in the ESPN Africa broadcast deal.,list,3.2,0.0,0.15282051282051284,2.04939015319192,2,2,False,False
+100,List three contributing factors to basketball's growing influence in Africa.,list,4.2,0.0,0.12758259284575071,1.0954451150103321,0,3,False,False
+101,List three impact areas of the BAL and AFD partnership.,list,4.4,0.0,0.0944206200303761,0.8944271909999159,0,3,False,False
+102,List three revenue streams for the Basketball Africa League.,list,3.2,0.0,0.11636363636363634,2.04939015319192,2,2,False,False
+103,List three key actions in BAL's gender equality initiatives.,list,4.0,0.0,0.11325489413719862,1.224744871391589,1,2,False,False
+104,List two social impact initiatives mentioned for the Basketball Africa League.,list,2.6,0.0,0.02317512274959082,1.3416407864998738,4,1,True,False
+105,List three former NBA players who attended the BAL scouting combine as prospects.,list,2.6,0.0,0.07272727272727272,2.1908902300206647,3,2,False,False
+106,List two objectives of the AfricaBasket and WINGSPAN partnership.,list,3.8,0.0,0.4870820052158794,1.3038404810405297,1,2,False,False
+107,Which organization co-organizes the Basketball Africa League (BAL) alongside FIBA? A) UEFA B) NBA Africa C) IOC D) FIFA,multiple choice,4.6,0.6,0.6598830409356724,0.8944271909999159,0,4,False,True
+108,Which city serves as the headquarters of FIBA Africa? A) Lagos B) Cairo C) Abidjan D) Nairobi,multiple choice,2.6,0.4,0.4,2.1908902300206647,3,2,False,False
+109,Which colonial region used cricket as a tool for elite formation? A) French West Africa B) British India C) Caribbean D) East Africa,multiple choice,5.0,0.6,0.9199999999999999,0.0,0,5,False,True
+110,Which two countries are mentioned as leaders in women's basketball achievements in Africa? A) Egypt and Morocco B) Nigeria and Senegal C) Kenya and Ghana D) Tunisia and Algeria,multiple choice,3.4,0.6,0.64,2.1908902300206647,2,3,False,False
+111,What is the primary purpose of allowing two African countries to participate in global events? A) Increase revenue B) Promote inclusivity and showcase broader talent C) Reduce competition D) Follow European models,multiple choice,5.0,0.6,0.6,0.0,0,5,False,True
+112,Which country has won the most AfroBasket championships? A) Nigeria B) Tunisia C) Angola D) Senegal,multiple choice,4.2,0.4,0.6133333333333333,1.7888543819998317,1,4,False,True
+113,Which organization launched the Basketball Africa League? A) FIBA only B) NBA Africa and FIBA C) African Union D) IOC,multiple choice,3.8,0.6,0.7263157894736842,1.6431676725154984,2,3,False,False
+114,"What is the primary focus of the book ""Sport and Apartheid South Africa""? A) Modern sports economics B) Colonial history, sport, and cultural identity C) African independence movements D) Olympic history",multiple choice,4.6,0.4,0.6166666666666667,0.5477225575051662,0,3,False,False
+115,"Which organizations are highlighted as key players in shaping African basketball's future? A) FIFA and UEFA B) NBA Africa, BAL, and local federations C) IOC and FIBA Europe D) NCAA and WNBA",multiple choice,4.6,0.6,0.638095238095238,0.8944271909999159,0,4,False,True
+116,Which NBA stars are mentioned as products of previous Basketball Without Borders camps in Africa? A) LeBron James and Kobe Bryant B) Joel Embiid and Pascal Siakam C) Stephen Curry and Kevin Durant D) Giannis Antetokounmpo and Luka Doncic,multiple choice,3.4,0.6,0.6,2.1908902300206647,2,3,False,False
+117,Which NBA teams did Hakeem Olajuwon play for during his professional career? A) Lakers and Celtics B) Bulls and Knicks C) Houston Rockets and Toronto Raptors D) Spurs and Heat,multiple choice,3.4,0.6,0.6599999999999999,2.1908902300206647,2,3,False,False
+118,Which city was Joel Embiid born in? A) Lagos B) Yaoundé C) Nairobi D) Accra,multiple choice,3.4,0.6,0.6,2.1908902300206647,2,3,False,False
+119,What is the name of the hospital Dikembe Mutombo established? A) Mutombo Medical Center B) Biamba Marie Mutombo Hospital C) Kinshasa General Hospital D) Congo Community Hospital,multiple choice,3.4,0.6,0.6,2.1908902300206647,2,3,False,False
+120,What position does Pascal Siakam play? A) Center B) Guard C) Forward D) Point Guard,multiple choice,3.4,0.6,0.6,2.1908902300206647,2,3,False,False
+121,What is South Sudan known as globally? A) The oldest nation B) The youngest nation C) The largest nation D) The most populous nation,multiple choice,3.4,0.6,0.6,2.1908902300206647,2,3,False,False
+122,What European competition is highlighted in relation to Gab Gre Lasme's performance? A) Champions League B) EuroLeague Top 16 C) EuroCup D) Basketball Champions League,multiple choice,2.6,0.4,0.42666666666666664,2.1908902300206647,3,2,False,False
+123,Where was Giannis Antetokounmpo born? A) Lagos B) Athens C) Nairobi D) Cairo,multiple choice,3.6,0.4,0.43636363636363634,1.949358868961793,2,3,False,False
+124,Which Olympic medal did Serge Ibaka win in 2012? A) Gold B) Silver C) Bronze D) None,multiple choice,3.4,0.4,0.44000000000000006,2.1908902300206647,2,3,False,False
+125,Which country does Astou Ndour represent internationally? A) Senegal B) Nigeria C) Mali D) Angola,multiple choice,3.4,0.6,0.6,2.1908902300206647,2,3,False,False
+126,Which of the following is part of FIBA Africa's youth development initiatives? A) Professional league management B) Basketball Schools and training camps C) Stadium construction D) Marketing campaigns,multiple choice,4.4,0.6,0.6,1.3416407864998738,1,4,False,True
+127,Which organizations are collaborating to create the new African development league? A) FIFA and UEFA B) NBA Africa and FIBA C) IOC and BAL D) NBBF and BSA,multiple choice,4.6,0.6,0.9,0.5477225575051662,0,3,False,False
+128,What is the competition level of the Nigerian Premier League? A) Second-tier B) Third-tier C) Top-tier D) Regional,multiple choice,5.0,0.6,0.6,0.0,0,5,False,True
+129,What is the primary purpose of the Women's Basketball League Africa? A) Youth development only B) Promote elite women's basketball across Africa C) Amateur competitions D) School tournaments,multiple choice,4.0,0.6,0.7323076923076923,1.7320508075688772,1,3,False,False
+130,Which organization oversees the Basketball National League in South Africa? A) FIBA B) NBA Africa C) Basketball South Africa (BSA) D) NBBF,multiple choice,5.0,0.4,0.6833333333333333,0.0,0,5,False,True
+131,Which countries are featured in the Youzou Elite Basketball League? A) Nigeria and Kenya B) Gabon and Cameroon C) South Africa and Angola D) Egypt and Tunisia,multiple choice,3.4,0.4,0.5066666666666666,2.1908902300206647,2,3,False,False
+132,Which of the following is a new partner for the 2025 BAL Playoffs? A) NIKE B) Hyundai C) Wilson D) RwandAir,multiple choice,3.4,0.4,0.4615384615384615,2.1908902300206647,2,3,False,False
+133,What do the top two teams from FIBA Africa youth tournaments qualify for? A) BAL B) Olympic Games C) FIBA U17 and U19 World Cups D) AfroBasket senior,multiple choice,3.4,0.6,0.6296296296296295,2.1908902300206647,2,3,False,False
+134,How many countries confirmed participation in the 5th Afro Varsity 3x3 Challenge? A) Three B) Five C) Eight D) Fourteen,multiple choice,2.6,0.4,0.4,2.1908902300206647,3,2,False,False
+135,What program did Emmanuel Okorafor participate in before joining Louisville? A) NCAA prep B) BAL Elevate C) FIBA camps D) High school All-Stars,multiple choice,3.4,0.4,0.49230769230769234,2.1908902300206647,2,3,False,False
+136,"Which countries are in FIBA Africa Zone 1? A) Nigeria, Ghana, Togo B) Algeria, Libya, Morocco, Tunisia C) Kenya, Rwanda, Uganda D) Angola, South Africa, Zambia",multiple choice,2.6,0.4,0.4,2.1908902300206647,3,2,False,False
+137,Which country won the men's 3x3 basketball gold medal at the 2023 African Games? A) Madagascar B) Egypt C) Algeria D) Nigeria,multiple choice,2.6,0.4,0.4,2.1908902300206647,3,2,False,False
+138,How many basketball courts did Giants of Africa pledge to build across Africa in 2021? A) 50 B) 75 C) 100 D) 150,multiple choice,4.2,0.4,0.5733333333333334,1.7888543819998317,1,4,False,True
+139,What is the focus of the BAL Advance program? A) Youth training only B) Professional game analysis C) Life after basketball with entrepreneurship and financial literacy D) Media production,multiple choice,4.2,0.6,0.7242424242424242,1.3038404810405297,1,3,False,False
+140,"How many additional basketball courts does Rwanda's Ministry of Sports acknowledge are needed nationwide? A) 500 B) 1,000 C) 2,000 D) 3,000",multiple choice,4.2,0.4,0.6666666666666666,1.7888543819998322,1,4,False,True
+141,How many athletes will participate in the Giants of Africa 2025 Festival? A) 200 B) 250 C) 320 D) 400,multiple choice,2.8,0.4,0.4,2.04939015319192,3,2,False,False
+142,Which Egyptian club was the first BAL champion in 2021? A) Al Ahly B) Zamalek SC C) Al Ittihad Alexandria D) US Monastir,multiple choice,2.6,0.4,0.4,2.1908902300206647,3,2,False,False
+143,Which of the following is a resource limitation for sport in development? A) Too many coaches B) Lack of affordable sports equipment C) Excessive funding D) Over-built infrastructure,multiple choice,5.0,0.6,0.6,0.0,0,5,False,True
+144,Which barrier involves negative stereotypes about athletes with disabilities? A) Physical accessibility B) Logistical accessibility C) Psychological accessibility D) Equipment limitations,multiple choice,5.0,0.6,0.6,0.0,0,5,False,True
+145,In which two cities did NBA Africa and Opportunity International build outdoor courts? A) Lagos and Cairo B) Johannesburg and Dakar C) Nairobi and Kigali D) Accra and Rabat,multiple choice,2.8,0.4,0.45,2.04939015319192,3,2,False,False
+146,"What is the average seating capacity of venues where BAL teams played? A) 2,500 B) 4,600 C) 7,000 D) 10,000",multiple choice,2.6,0.4,0.4,2.1908902300206647,3,2,False,False
+147,Which organization remains the Official Airline Partner of BAL? A) Ethiopian Airlines B) Kenya Airways C) RwandAir D) South African Airways,multiple choice,3.0,0.4,0.4,1.8708286933869707,3,2,False,False
+148,"Which arena hosted the 2019 FIBA Women's AfroBasket with record attendance of 15,000 fans? A) Kigali Arena B) Cairo Stadium C) Dakar Arena D) Arena Kilamba",multiple choice,2.6,0.4,0.42105263157894735,2.1908902300206647,3,2,False,False
+149,How much tourism revenue did Rwanda generate in 2022 from hosting global events? A) $100M B) $150M C) $240M D) $300M,multiple choice,3.4,0.6,0.6,2.1908902300206647,2,3,False,False
+150,Which of the following is a personal skill developed through youth basketball? A) Dribbling B) Goal-setting C) Shooting D) Passing,multiple choice,3.8,0.6,0.6,1.6431676725154984,2,3,False,False
+151,"How many youth did NBA Africa reach through development programs last year? A) 150,000 B) 250,000 C) 350,000 D) 500,000",multiple choice,2.6,0.0,0.0,2.1908902300206647,3,2,False,False
+152,"How many international basketball games will ESPN Africa broadcast under the FIBA deal? A) 500 B) 1,000 C) 1,500 D) 2,000",multiple choice,5.0,0.4,0.4444444444444445,0.0,0,5,False,True
+153,What was the increase in official NBA and BAL merchandise sales? A) 20% B) 30% C) 40% D) 50%,multiple choice,3.6,0.4,0.5333333333333333,1.9493588689617927,2,3,False,False
+154,What is the name of the pan-African platform launched by AFD to support sports projects? A) Sport Together B) Sport en commun C) Sports for Africa D) African Sports Initiative,multiple choice,5.0,0.6,0.9428571428571428,0.0,0,5,False,True
+155,Where is the Basketball Africa League headquarters located? A) Kigali B) Lagos C) Dakar D) Cairo,multiple choice,2.6,0.4,0.4,2.1908902300206647,3,2,False,False
+156,What age group is targeted by the STEM sports curriculum for girls? A) 10 and under B) 12 and under C) 14 and under D) 16 and under,multiple choice,2.2,0.0,0.04444444444444444,1.6431676725154984,4,1,True,False
+157,What is the name of BAL's climate action program? A) BAL Clean B) BAL Green C) BAL Earth D) BAL Climate,multiple choice,2.6,0.2,0.3220779220779221,2.1908902300206647,3,2,False,False
+158,Where was the first BAL scouting combine held? A) Madison Square Garden B) Brooklyn Nets practice facility C) BAL headquarters D) FIBA facility,multiple choice,3.8,0.6,0.6,1.6431676725154984,2,3,False,False
+159,Who co-founded WINGSPAN Scouting? A) Amadou Gallo Fall and Luol Deng B) Jacques Vandescure and David Helmer C) Masai Ujiri and Barack Obama D) Dikembe Mutombo and P.J. Carlesimo,multiple choice,2.6,0.4,0.43076923076923074,2.1908902300206647,3,2,False,False
